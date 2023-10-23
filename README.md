@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mahedei
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on this.
-- 📫 How to reach me ...
 
 <!---
 mahedei/mahedei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
